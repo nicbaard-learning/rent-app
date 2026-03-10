@@ -1,0 +1,14 @@
+# Project specific
+node_modules
+dist
+uploads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Logs
+*.log

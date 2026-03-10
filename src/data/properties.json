@@ -1,0 +1,56 @@
+[
+    {
+        "id": "prop-001",
+        "displayName": "78 Santo Domingo",
+        "streetAddress": "President Brand Street",
+        "suburb": "Rynfield",
+        "city": "Benoni",
+        "availableFrom": "2026-04-01",
+        "monthlyRent": 8000,
+        "creditCheckFee": 150,
+        "agentEmail": "nicbaard@gmail.com",
+        "depositBreakdown": {
+            "rentalDeposit": 7800,
+            "keyDeposit": 500,
+            "utilityDeposit": 1500,
+            "leaseFee": 1000,
+            "firstMonthRent": 7800
+        }
+    },
+    {
+        "id": "prop-002",
+        "displayName": "Urban Loft 402",
+        "streetAddress": "88 Bree Street",
+        "suburb": "City Centre",
+        "city": "Cape Town",
+        "availableFrom": "2026-03-15",
+        "monthlyRent": 18500,
+        "creditCheckFee": 250,
+        "agentEmail": "nicbaard@gmail.com",
+        "depositBreakdown": {
+            "rentalDeposit": 37000,
+            "keyDeposit": 500,
+            "utilityDeposit": 2000,
+            "leaseFee": 1200,
+            "firstMonthRent": 18500
+        }
+    },
+    {
+        "id": "prop-003",
+        "displayName": "Vineyard Cottage",
+        "streetAddress": "42 Oak Avenue",
+        "suburb": "Constantia",
+        "city": "Cape Town",
+        "availableFrom": "2026-05-01",
+        "monthlyRent": 32000,
+        "creditCheckFee": 300,
+        "agentEmail": "nicbaard@gmail.com",
+        "depositBreakdown": {
+            "rentalDeposit": 64000,
+            "keyDeposit": 750,
+            "utilityDeposit": 3500,
+            "leaseFee": 1400,
+            "firstMonthRent": 32000
+        }
+    }
+]
